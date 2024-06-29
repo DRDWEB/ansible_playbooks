@@ -1,0 +1,5 @@
+collections:
+  # Install a collection from Ansible Galaxy.
+  - name: x_delfino.utils
+    version: ">=0.0.8"
+    source: https://galaxy.ansible.com
